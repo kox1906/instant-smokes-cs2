@@ -1,0 +1,10 @@
+{
+    "SETPOS_KEY": "I",
+    "SETANG_KEY": "O",
+    "SHOWPOS_KEY": "P",
+    "INSTRUCTION_KEY": "J",
+    "EXIT_KEY": ".",
+    "EXEC_KEY": "L",
+    "SHOW_COMMANDS_KEY": "K",
+    "EC_SLEEP_TIME": 0.06
+}
