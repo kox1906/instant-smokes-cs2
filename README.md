@@ -46,7 +46,8 @@ You can edit hotkeys in `config.json`. Example:
   "EXEC_KEY": "L",
   "SHOW_COMMANDS_KEY": "K",
   "EC_SLEEP_TIME": 0.06
-}```
+}
+```
 
 ## 🧠 How It Works
 
