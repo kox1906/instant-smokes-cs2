@@ -103,6 +103,7 @@ Check that CS2 console is open (`~` key). And make sure you've selected spawns f
 ## 🧩 Download
 
 > 👉 [Download .zip version (.exe file)](https://github.com/kox1906/instant-smokes-cs2/releases/download/v1.0.0/instant_smokes_cs2.zip)  
+
 Unpack and launch `launcher.exe`. No installation needed.
 
 ## 🤝 Credits
