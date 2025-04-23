@@ -46,7 +46,7 @@ You can edit hotkeys in `config.json`. Example:
   "EXEC_KEY": "L",
   "SHOW_COMMANDS_KEY": "K",
   "EC_SLEEP_TIME": 0.06
-}
+}```
 
 ## 🧠 How It Works
 
@@ -81,7 +81,7 @@ Check that CS2 console is open (`~` key). And make sure you've selected spawns f
 
 ## 🤝 Credits
 
-Made by [Twoja ksywa lub nick](https://github.com/TWOJ_LOGIN)  
+Made by [kox1906](https://github.com/kox1906)  
 Inspired by CS:GO training scripts
 
 ## 📝 License
