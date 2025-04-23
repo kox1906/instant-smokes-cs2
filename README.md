@@ -85,7 +85,7 @@ No. It does not inject or modify memory. It only simulates keypresses like a mac
 ### ❓ "Can I change hotkeys?"
 Yes. Edit the `config.json` file.
 
-### ❓ "Can I change a training exec?"
+### ❓ "Can I change/add exec commands?"
 Yes. Edit the `exec.txt` file
 
 ### ❓ "The .exe doesn't launch / show console"
@@ -99,6 +99,11 @@ Check that CS2 console is open (`~` key). And make sure you've selected spawns f
 - Windows 10 / 11
 - CS2 (April 2025 update)
 - Works with fullscreen + borderless mode
+
+## 🧩 Download
+
+> 👉 [Download .zip version (.exe file)](https://github.com/kox1906/instant-smokes-cs2/releases/tag/v1.0.0)  
+Unpack and launch `launcher.exe`. No installation needed.
 
 ## 🤝 Credits
 
