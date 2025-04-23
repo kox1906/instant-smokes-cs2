@@ -58,6 +58,25 @@ You can edit hotkeys in `config.json`. Example:
 - Works entirely offline. VAC-safe. No memory editing.
 - Everything runs from a local `.exe` – no Python required.
 
+## 🖼️ Screenshots
+
+### 1. Map Selection
+![Map Select](screenshots/launcher.png)
+
+### 2. Spawn Selection
+![Spawn Select](screenshots/choose_spawns1.png)
+
+![Spawn Select](screenshots/choose_spawns2.png)
+
+### 3. Key Listener (in console)
+
+# maps
+![Key Listener](screenshots/key_listener.png)
+
+# load exec
+![Load Exec](screenshots/load_exec.png)
+
+
 ## ❓ FAQ
 
 ### ❓ "Will I get VAC banned?"
