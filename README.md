@@ -70,10 +70,10 @@ You can edit hotkeys in `config.json`. Example:
 
 ### 3. Key Listener (in console)
 
-# maps
+maps
 ![Key Listener](screenshots/key_listener.png)
 
-# load exec
+load exec
 ![Load Exec](screenshots/load_exec.png)
 
 
@@ -84,6 +84,9 @@ No. It does not inject or modify memory. It only simulates keypresses like a mac
 
 ### ❓ "Can I change hotkeys?"
 Yes. Edit the `config.json` file.
+
+### ❓ "Can I change a training exec?"
+Yes. Edit the `exec.txt` file
 
 ### ❓ "The .exe doesn't launch / show console"
 Try running as Administrator. Make sure antivirus didn't block it.
