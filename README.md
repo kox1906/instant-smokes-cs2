@@ -89,7 +89,8 @@ Yes. Edit the `config.json` file.
 Yes. Edit the `exec.txt` file
 
 ### ❓ "The .exe doesn't launch / show console"
-Try running as Administrator. Make sure antivirus didn't block it.
+Try running as Administrator. Make sure antivirus didn't block it. 
+Make sure faceit AC or any other Anti-Cheat works in background (won't ban you, but can block popping console windows)
 
 ### ❓ "Nothing happens when I press keys"
 Check that CS2 console is open (`~` key). And make sure you've selected spawns first.
