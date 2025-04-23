@@ -58,12 +58,6 @@ You can edit hotkeys in `config.json`. Example:
 - Works entirely offline. VAC-safe. No memory editing.
 - Everything runs from a local `.exe` – no Python required.
 
-## 🧪 Tested On
-
-- Windows 10 / 11
-- CS2 (April 2025 update)
-- Works with fullscreen + borderless mode
-
 ## ❓ FAQ
 
 ### ❓ "Will I get VAC banned?"
@@ -78,11 +72,15 @@ Try running as Administrator. Make sure antivirus didn't block it.
 ### ❓ "Nothing happens when I press keys"
 Check that CS2 console is open (`~` key). And make sure you've selected spawns first.
 
+## 🧪 Tested On
+
+- Windows 10 / 11
+- CS2 (April 2025 update)
+- Works with fullscreen + borderless mode
 
 ## 🤝 Credits
 
 Made by [kox1906](https://github.com/kox1906)  
-Inspired by CS:GO training scripts
 
 ## 📝 License
 
