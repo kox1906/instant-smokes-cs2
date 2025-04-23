@@ -25,7 +25,6 @@ Made with Python + PyQt6. Works fully offline. Doesn't connect with CS files -> 
    - `P` – show spawn number
    - `J` – show instruction
    - `.` – exit the app
-4.1. keys can be modified in config.json
 
 Optional:
 - Press `load exec` on main screen to load exec commands (`exec.txt`)
