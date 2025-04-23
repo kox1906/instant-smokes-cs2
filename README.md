@@ -76,6 +76,11 @@ maps
 load exec
 ![Load Exec](screenshots/load_exec.png)
 
+## 👀 About Spawns
+
+Most of spawns are numerated properly to their actual states. Despite this, on a few maps I didn't take all of the spawns.
+Numbers of spawns there may be different. For example on dust2 there is 7 spawns. In fact dust2 has around 15 spawns,
+but most of them aren't instant or are useless, that's why I discounted them. 1-3 spawns are proper, then 4-7 are like 11-14.
 
 ## ❓ FAQ
 
@@ -90,7 +95,8 @@ Yes. Edit the `exec.txt` file
 
 ### ❓ "The .exe doesn't launch / show console"
 Try running as Administrator. Make sure antivirus didn't block it. 
-Make sure faceit AC or any other Anti-Cheat works in background (won't ban you, but can block popping console windows)
+❗Make sure faceit AC or any other Anti-Cheat doesn't work in the background❗
+(won't ban you, but can block popping console windows)
 
 ### ❓ "Nothing happens when I press keys"
 Check that CS2 console is open (`~` key). And make sure you've selected spawns first.
